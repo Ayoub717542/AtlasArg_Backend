@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c4d52eb-41f7-44ad-a280-a2bc7ab2cffd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ayoub717542"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ayoub717542/GreenArt.git",
+    "accountId": "9fdcddfc-f005-4225-bc45-9a8d8d0d69fd"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8692918995254066" />
+      <entry key="MS500" value="3.9403806705702316" />
+      <entry key="S2" value="7.727535175788603" />
+      <entry key="S5" value="14.745775308868996" />
+      <entry key="S10" value="24.799934170968886" />
+      <entry key="S30" value="43.148106922777934" />
+      <entry key="S60" value="51.32165288539984" />
+      <entry key="M2" value="56.29885108104703" />
+      <entry key="M5" value="60.124765310017" />
+      <entry key="M10" value="66.3911106063685" />
+      <entry key="M15" value="75.11750393502862" />
+      <entry key="M30" value="97.98633721813613" />
+      <entry key="H1" value="121.68063935721304" />
+      <entry key="H2" value="140.62253848934623" />
+      <entry key="H4" value="160.78869569496908" />
+      <entry key="D1" value="299.72111765336604" />
+      <entry key="W1" value="394.6738752661308" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.1586878126230085E-169" />
+      <entry key="S10" value="4.76032143887703E-85" />
+      <entry key="S30" value="1.23631400801546E-28" />
+      <entry key="S60" value="1.571957575104904E-14" />
+      <entry key="M2" value="1.7729673825596E-7" />
+      <entry key="M5" value="0.0030205774481605776" />
+      <entry key="M10" value="0.07772461847142205" />
+      <entry key="M15" value="0.22946445601569027" />
+      <entry key="M30" value="0.6774426812539373" />
+      <entry key="H1" value="1.1639956091171682" />
+      <entry key="H2" value="1.526690010600099" />
+      <entry key="H4" value="1.7991846684532251" />
+      <entry key="D1" value="3.482841402087598" />
+      <entry key="W1" value="4.717772936334085" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7843930456572363" />
+      <entry key="MS500" value="3.9022293401443884" />
+      <entry key="S2" value="7.697432992186066" />
+      <entry key="S5" value="14.702875687074496" />
+      <entry key="S10" value="24.75289749918649" />
+      <entry key="S30" value="43.11661127253087" />
+      <entry key="S60" value="51.30236640165433" />
+      <entry key="M2" value="56.288128003368776" />
+      <entry key="M5" value="60.12314111166637" />
+      <entry key="M10" value="66.4660622083708" />
+      <entry key="M15" value="75.34464552595212" />
+      <entry key="M30" value="98.6619712314897" />
+      <entry key="H1" value="122.84339056467549" />
+      <entry key="H2" value="142.14847817833987" />
+      <entry key="H4" value="162.58745269453047" />
+      <entry key="D1" value="303.20383528694896" />
+      <entry key="W1" value="399.3916252082107" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3M73No2mGejVdGGnHyLYSn8jxI0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.GreenArtApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/setup",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pc/Downloads/GreenArt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Downloads\GreenArt\GreenArt" />
+      <recent name="C:\Users\pc\Downloads\GreenArt" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GreenArtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="EARTHDATA_PASSWORD" value="AyoubHadi120@" />
+        <env name="EARTHDATA_USERNAME" value="ayoubsung" />
+        <env name="EARTHDATA_TOKEN" value="eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiVXNlciIsInVpZCI6ImF5b3Vic3VuZyIsInN1YiI6ImF5b3Vic3VuZyIsImV4cCI6MTc5OTg3Mzg2NywiaWF0IjoxNzk0Njg5ODY3LCJpc3MiOiJodHRwczovL3Vycy5lYXJ0aGRhdGEubmFzYS5nb3YiLCJpZGVudGl0eV9wcm92aWRlciI6ImVkbF9vcHMiLCJhY3IiOiJlZGwiLCJhc3N1cmFuY2VfbGV2ZWwiOjN9.pGWUFhjsoPTDr3_Tw3yBvJe20bniOvu0wBPGwR4GiNQFjaI-kc4M06V9SHpEL9KjX9ZbsV_F3dzq5tcMfkIhzfC2B7hiS6Q3oj1YSo8WRU85L1GV9C-d8pL2OGtnWjvNGOOlsDS7WfCbGyBdFchS-sndsRGUP1InoCmyy3hlziXSYyfa7sNWGd6vVovuTBEJ-22DKbZkyL66IHYzis6cDHVhUUGXtXPZD5c9Pg2dCZFTak-ci3wdoYYvKFN7BEuR-iem0RaNNYwjeD4nzqbA1ClysT-7ZTva6OsccWP2Cl8yJltcgHdv5WZq-fBEtBJ50plpLc-7o3WX26QmX2Uxfg" />
+      </envs>
+      <module name="GreenArt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.GreenArt.GreenArtApplication" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c4d52eb-41f7-44ad-a280-a2bc7ab2cffd" name="Changes" comment="" />
+      <created>1794687742045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794687742045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
