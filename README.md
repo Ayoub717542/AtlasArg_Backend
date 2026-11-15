@@ -1,6 +1,6 @@
-# GreenArt Climate Data API
+# AtlasArg Climate Data API
 
-A Spring Boot service that exposes a small HTTP API for retrieving climate and soil-moisture data from NASA services. GreenArt is a separate backend repository; it is **not currently connected** to the AtlasAgri frontend.
+A Spring Boot service that exposes a small HTTP API for retrieving climate and soil-moisture data from NASA services. AtlasArg is a separate backend repository; it is **not currently connected** to the AtlasAgri frontend.
 
 [![Java](https://img.shields.io/badge/Java-25-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.2-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -13,7 +13,7 @@ A Spring Boot service that exposes a small HTTP API for retrieving climate and s
 - NASA SMAP L4 surface and root-zone soil moisture through AppEEARS.
 - Three read-only `GET` endpoints; no database or persistence layer is configured.
 
-This API is an integration starting point, not yet a drop-in replacement for the AtlasAgri demo's mock API. The frontend reads local JSON and expects monthly records; GreenArt currently returns NASA POWER's response or daily GPM/SMAP response data. An adapter and aggregation step are still needed.
+This API is an integration starting point, not yet a drop-in replacement for the AtlasAgri demo's mock API. The frontend reads local JSON and expects monthly records; AtlasArg currently returns NASA POWER's response or daily GPM/SMAP response data. An adapter and aggregation step are still needed.
 
 ## Requirements and credentials
 
@@ -42,11 +42,11 @@ export EARTHDATA_PASSWORD="<your-earthdata-password>"
 
 ## Run locally
 
-The Maven project is in the `GreenArt/` subdirectory of this repository.
+The Maven project is in the `AtlasArg/` subdirectory of this repository.
 
 ```bash
-git clone https://github.com/Ayoub717542/GreenArt.git
-cd GreenArt/GreenArt
+git clone https://github.com/Ayoub717542/AtlasArg.git
+cd AtlasArg/AtlasArg
 ```
 
 Run the app with the Maven wrapper:
@@ -97,9 +97,9 @@ SMAP submits a point task to AppEEARS and waits synchronously for it to finish (
 ## Repository layout
 
 ```text
-GreenArt/
+AtlasArg/
   pom.xml
-  src/main/java/com/example/GreenArt/
+  src/main/java/com/example/AtlasArg/
     controller/  HTTP endpoint definitions
     service/     NASA POWER, GPM IMERG, and AppEEARS clients
   src/main/resources/application.properties
